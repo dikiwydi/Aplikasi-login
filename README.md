@@ -3,8 +3,6 @@ Sebuah aplkasi dengan fitur login
 
 Alur Fitur Login:
 ==
-- Memasukkan nama, email, dan password
+- Memasukkan  email dan password.
 - Memvalidasi masukan.
-- Memvalidasi pengguna menggunakan wajah.
-- Memasukan nama ibu untuk validasi
-- Menampilkan halaman home.
+- Menampilkan halaman beranda.
